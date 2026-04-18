@@ -1,14 +1,26 @@
 #recipe-header{
     display:flex;
-}
-#search-wrapper{
-    padding-top: 30px;
-    padding-left: 30px;
-   
+    background-color: #f7f8f9;
+    height: 100%;
 }
 #side-list{
     padding-top: 30px;
-    padding-left: 30px;
+    padding-left: 450px;
+    
+}
+.sidelist1{
+    border-left: 2px solid grey;
+    padding-left: 4px;
+    font-size: medium;
+}
+#header-list{
+    font-size: small;
+    display:flex;
+    gap:25px;
+    padding-left: 10px;
+}
+#header-list #mag{
+    color:orangered;
 }
 #recipe-cover-photo img{
     display: flex;
@@ -26,7 +38,7 @@
 }
 #prep-details{
     border: 1px solid grey;
-    border-top: 5px solid orange;
+    border-top: 5px solid orangered;
     padding: 5px;
     width: 100%;
     border-radius: 3%;
@@ -39,7 +51,7 @@
 #ingredients-container{
     font-style: italic;
     border: 1px solid grey;
-    border-top: 5px solid orange;
+    border-top: 5px solid orangered;
     padding: 5px;
     margin-top: 5px;
     width: 100%;
@@ -50,7 +62,7 @@
     
 }
 li::marker {
-  color: orange;
+  color: orangered;
   font-size: 1.2em; 
 }
 #ingredients-title{
@@ -81,14 +93,14 @@ li::marker {
     padding:20px;
 }
 .option-action{
-  border:2px solid orange;
+  border:2px solid orangered;
   padding-left:55px;
   padding-right:55px;
   padding-top:8px;
   padding-bottom:8px;
 }
 .option-action:hover{
-    background-color: orange;
+    background-color: orangered;
 }
 #line {
     width: 60%;
@@ -108,7 +120,7 @@ li::marker {
     padding-left: 20px;
 }
 #footer-hover{
-  border:2px solid orange;
+  border:2px solid orangered;
   padding-top:8px;
   padding-bottom:8px;
   width: 30%;
@@ -124,7 +136,7 @@ li::marker {
 
 }
 #footer-hover:hover{
-background-color: orange;
+background-color: orangered;
 
 }
 #footer-img{
