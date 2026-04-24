@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chicken and Asparagus Fettuccine Recipe</title>
+    <link rel="stylesheet" href="../style/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header id="recipe-header">
+      <div id="header-image">
+        <img
+          src="/directionsImages/Screenshot from 2026-04-17 12-23-01.png"
+          alt="header image"
+        />
+      </div>
+      <div id="search-bar">
+        <input type="text" placeholder="Search..." name="search" />
+        <button type="submit"><i class="fa fa-search"></i></button>
+      </div>
+      <div id="side-list">
+        <span class="sidelist1">Newsletters</span>
+        <span class="sidelist1">Sweepstake</span>
+        <span class="sidelist1">My Recipes</span>
+      </div>
+    </header>
+    <div id="header-list">
+      <h4>DINNERS</h4>
+      <h4>MEALS</h4>
+      <h4>INGREDIENTS</h4>
+      <h4>OCCASIONS</h4>
+      <h4>CUISINES</h4>
+      <h4>KITCHEN TIPS</h4>
+      <h4>NEWS</h4>
+      <h4>FEATURES</h4>
+      <h4>ABOUT US</h4>
+      <h4 id="mag">GET THE MAGAZINE</h4>
+    </div>
+
+    <a href="../index.html">Home</a>
+    <div id="img-prep-ingredients-wrapper">
+      <div id="recipe-cover-photo">
+        <img
+          src="/directionsImages/Screenshot from 2026-04-24 09-51-25.png"
+          alt="chicken and Asparagus Fettuccine"
+        />
+        <div id="Recipe-desc">
+          <p>
+           This chicken Alfredo with asparagus is so rich and filling that one serving goes a long way. Crusty bread and a salad is all this creamy dish needs to make a complete and hearty meal.
+          </p>
+        </div>
+      </div>
+      <div id="prep-ingredients-wrapper">
+        <div id="prep-details">
+          <div class="prep-row">
+            <h4>Prep Time:<span class="breakoff">15 mins</span></h4>
+            <h4>Cook Time:<span class="breakoff">25 mins</span></h4>
+          </div>
+          <div class="prep-row">
+            <h4>Total Time:<span class="breakoff">40 mins</span></h4>
+            <h4>Servings:<span class="breakoff"> 6</span></h4>
+          </div>
+        </div>
+        <div id="ingredients-container">
+          <h4 id="ingredients-title">Ingredients</h4>
+          <ul id="ingredients-list">
+            <li>12 ounces dry fettuccini pasta</li>
+            <li>2 cups (1-inch pieces) fresh asparagus</li>
+            <li>½ cup butter</li>
+            <li>2 cups half-and-half cream.</li>
+            <li>
+             ¼ teaspoon garlic powder
+            </li>
+            <li>¼ teaspoon ground black pepper.</li>
+            <li>1 pinch cayenne pepper</li>
+            <li>¾ cup grated Parmesan cheese.</li>
+            <li>½ pound cooked chicken breasts, cut into bite size pieces.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="directions">
+      <h1>Directions</h1>
+      <h4>Step 1</h4>
+      <p>
+       Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes, or until al dente. Add asparagus during the last 3 to 5 minutes of cooking. Drain, and transfer to a large bowl.
+      </p>
+      
+      <h4>Step 2</h4>
+      <p>
+       In a large saucepan over medium heat, combine butter and half-and-half. Cook until thick and bubbly. Season with garlic powder, black pepper, and cayenne pepper. Stir in Parmesan cheese and chicken, and heat through.
+      </p>
+
+      <h4>Step 3</h4>
+      <p>
+       Pour sauce over pasta and asparagus, and toss to coat.
+      </p>
+    <div id="options">
+      <div class="option-action">
+        <i class="fa-regular fa-heart"></i> <span>Save</span>
+      </div>
+      <div class="option-action">
+        <i class="fa-regular fa-star"></i><span>Rate</span>
+      </div>
+      <div class="option-action">
+        <i class="fa-solid fa-print"></i><span>Print</span>
+      </div>
+    </div>
+    <div id="line">
+      <hr />
+    </div>
+    <div id="nutritional-facts-title">
+      <h2>Nutrition Facts<span class="breakoff1">(per serving)</span></h2>
+    </div>
+    <div id="nutritional-facts">
+      <div class="nutritional-facets">
+        <h4>376</h4>
+        <span>Calories</span>
+      </div>
+      <div class="nutritional-facets">
+        <h4>20g</h4>
+        <span>Fat</span>
+      </div>
+      <div class="nutritional-facets">
+        <h4>33g</h4>
+        <span>Carbs</span>
+      </div>
+      <div class="nutritional-facets">
+        <h4>17g</h4>
+        <span>Protein</span>
+      </div>
+    </div>
+    <hr />
+    <footer id="footer">
+      <div id="footer-img">
+        <img
+          src="/directionsImages/Screenshot from 2026-04-17 12-23-01.png"
+          alt="size logo"
+        />
+      </div>
+      <div id="footer-content">
+        <div id="newsletter-socials">
+          <div id="footer-hover">
+            <span>Newsletters</span>
+          </div>
+          <span id="follow-words">Follow us</span>
+          <div id="socials">
+            <div class="socials-option">
+              <i class="fa-brands fa-facebook-f"></i>
+            </div>
+            <div class="socials-option">
+              <i class="fa-brands fa-instagram"></i>
+            </div>
+            <div class="socials-option">
+              <i class="fa-brands fa-pinterest-p"></i>
+            </div>
+            <div class="socials-option">
+              <i class="fa-brands fa-tiktok"></i>
+            </div>
+            <div class="socials-option">
+              <i class="fa-brands fa-youtube"></i>
+            </div>
+            <div class="socials-option">
+              <i class="fa-brands fa-flipboard"></i>
+            </div>
+          </div>
+        </div>
+        <div id="quicklinks1">
+          <h4>Dinners</h4>
+          <h4>Meals</h4>
+          <h4>Ingredients</h4>
+          <h4>Occasions</h4>
+          <h4>Cuisines</h4>
+          <h4>Kitchen Tips</h4>
+          <h4>News</h4>
+          <h4>Features</h4>
+          <h4>Video</h4>
+        </div>
+        <div id="quicklinks2">
+          <span>About us</span>
+          <span>Privacy Policy</span>
+          <span>Terms of service</span>
+          <span>Careers</span>
+          <span>Manage your magazine subscription</span>
+        </div>
+        <div id="quicklinks3">
+          <span>Editorial Process</span>
+          <span>Product Vetting</span>
+          <span>Advertise</span>
+          <span>Contact</span>
+          <span>Magazine Subscription</span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
